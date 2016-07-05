@@ -27,7 +27,7 @@
 							<li><a href="#">Education</a></li>
 							<li><a href="#">Comedy</a></li>
 						</ul></li>
-					<li><a href="getProducts">All Products</a></li>
+					<li><a href="productsdisplay">All Books</a></li>
 
 					<li><form:form action="isValidUser" method="post">
 							<input type="text" name="name" placeholder="UserId">

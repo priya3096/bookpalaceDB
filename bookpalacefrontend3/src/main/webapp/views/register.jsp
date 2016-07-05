@@ -39,8 +39,9 @@ table tr:nth-child(even) {
 <body style="text-align: center" background="C:\Users\Manoj\Desktop\ecommerce project\images.jpg">
 <%@include file="/includes/Navbar.jsp" %>
 	<div ng-app="mainApp" ng-controller="studentController">
+	<h2>Enter your Details...</h2>
 
-		<form name="studentForm" novalidate action="index1.jsp" method="post">
+		<form name="studentForm" novalidate action="index.jsp" method="post">
 			<table class="box" border="10">
 				<tr>
 					<td>Enter first name:</td>

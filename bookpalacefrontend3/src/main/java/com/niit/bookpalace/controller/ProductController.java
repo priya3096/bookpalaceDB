@@ -94,4 +94,14 @@ public class ProductController {
 	
 		return "product";
 	}
+	@RequestMapping(value = "/productsdisplay", method = RequestMethod.GET)
+	public String listProducts1(Model model) {
+		model.addAttribute("product", new Product());
+		model.addAttribute("category", new Category());
+		model.addAttribute("supplier", new Supplier());
+		model.addAttribute("productList", this.productDAO.list());
+		model.addAttribute("categoryList", this.categoryDAO.list());
+		model.addAttribute("supplierList", this.supplierDAO.list());
+		return "productdisplay";
+	}
 }

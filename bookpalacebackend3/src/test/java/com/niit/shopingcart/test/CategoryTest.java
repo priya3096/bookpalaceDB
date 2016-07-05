@@ -28,8 +28,8 @@ public class CategoryTest {
 	
 	
 	categoryDAO.saveOrUpdate(c);
-	*/
 	
+*/	
 	
 	
 	List<Category>  list =    categoryDAO.list();
