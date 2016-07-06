@@ -28,10 +28,10 @@ public class UserController {
 		if (userDAO.isValidUser(name, password,true)) 
 		{
 			System.out.println("in controller");
-			message = "Valid credentials";
+			message = "";
 			 mv = new ModelAndView("adminHome");
 		} else {
-			message = "Invalid credentials";
+			message = "Invalid credentials :(";
 			 mv = new ModelAndView("login");
 		}
 

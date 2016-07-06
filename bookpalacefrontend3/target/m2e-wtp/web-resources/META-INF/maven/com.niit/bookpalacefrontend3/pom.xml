@@ -5,7 +5,7 @@
 	<artifactId>bookpalacefrontend3</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ShopingCart</name>
+	<name>bookpalace</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>

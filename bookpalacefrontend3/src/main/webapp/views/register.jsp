@@ -64,7 +64,7 @@ table tr:nth-child(even) {
 
 				<tr>
 					<td>Enter mobile number:</td>
-					<td><input name="mobile" type="text" ng-model="mobile">
+					<td><input name="mobile" type="number" ng-model="mobile">
 					</td>
 				</tr>
 				<tr>

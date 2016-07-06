@@ -9,6 +9,7 @@
 <%@include file="/includes/Head.jsp" %>
 <body background="C:\Users\Manoj\Desktop\ecommerce project\images.jpg">
 <%@include file="/includes/Navbar.jsp" %>
+
 <center>
 <h1>Welcome Admin !! </h1> <br><br>
 <h4>

@@ -35,7 +35,7 @@
 					<div class="item active">
 						<img class="book1.jpg"
 							src="C:\Users\Manoj\workspace\bookpalace\src\main\resources\images\A-good-book-is-the-best-of-friends.jpg"
-							alt="" style="width: 600px; height: 350px;">
+							alt=" " style="width: 600px; height: 350px;">									
 						<div class="carousel-caption">
 							<h2></h2>
 						</div>
