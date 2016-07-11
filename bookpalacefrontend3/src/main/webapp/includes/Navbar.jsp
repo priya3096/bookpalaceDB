@@ -29,10 +29,10 @@
 						</ul></li>
 					<li><a href="productsdisplay">All Books</a></li>
 
-					<li><div style="color: red">${message}</div><br><form:form action="isValidUser" method="post">
+					<li><div style="color: red">${message}</div><br><form action="isValidUser" method="post">
 							<input type="text" name="name" placeholder="UserId">
 							<input type="password" name="password" placeholder="Password">
-							<input type="submit" value="SIGN IN"></form:form></li>
+							<button class="btn btn-info">LOG IN</button></form></li>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
