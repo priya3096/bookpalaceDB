@@ -7,7 +7,7 @@
 <title>Admin Page</title>
 </head>
 <%@include file="/includes/Head.jsp" %>
-<body background="C:\Users\Manoj\Desktop\ecommerce project\images.jpg">
+<body background="resources\images\images.jpg">
 <%@include file="/includes/Navbar.jsp" %>
 
 <center>

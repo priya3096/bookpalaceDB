@@ -34,15 +34,19 @@
 				<div class="carousel-inner">
 					<div class="item active">
 						<img class="book1.jpg"
-							src="resources\images\A-good-book-is-the-best-of-friends.jpg"
+							src="resources/images/A-good-book-is-the-best-of-friends.jpg"
 							alt=" " style="width: 600px; height: 350px;">									
 						<div class="carousel-caption">
 							<h2></h2>
 						</div>
 					</div>
 					<div class="item">
+						<img src="resources/images/Danbr.jpg"
+							alt="" style="width: 600px; height: 350px;">
+					</div>
+					<div class="item">
 						<img class="book1.jpg"
-							src="C:\Users\Manoj\workspace\bookpalace\src\main\resources\images\DanBr.jpg"
+							src="resources\images\20-Cookbooks-900x342.jpg"
 							alt="" style="width: 600px; height: 350px;">
 						<div class="carousel-caption">
 							<h2></h2>
@@ -50,15 +54,7 @@
 					</div>
 					<div class="item">
 						<img class="book1.jpg"
-							src="C:\Users\Manoj\workspace\bookpalace\src\main\resources\images\ArundhRoy.jpg"
-							alt="" style="width: 400px; height: 400px;">
-						<div class="carousel-caption">
-							<h2></h2>
-						</div>
-					</div>
-					<div class="item">
-						<img class="book1.jpg"
-							src="C:\Users\Manoj\workspace\bookpalace\src\main\resources\images\book2.png"
+							src="resources\images\book2.png"
 							alt="" style="width: 600px; height: 350px;">
 						<div class="carousel-caption">
 							<h2></h2>

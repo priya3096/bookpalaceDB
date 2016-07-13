@@ -48,7 +48,7 @@
 }
 </style>
 </head>
-<body  background="C:\Users\Manoj\Desktop\ecommerce project\images.jpg">
+<body  background="resources\images\images.jpg">
 <%@include file="/includes/Navbar.jsp" %>
 <center>
 <h3>Available Books... </h3>

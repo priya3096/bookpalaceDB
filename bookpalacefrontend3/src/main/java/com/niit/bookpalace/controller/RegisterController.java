@@ -16,5 +16,9 @@ public class RegisterController {
 		mv = new ModelAndView("register");
 		return mv;
 	}
+	@RequestMapping(value="/about")
+	public String about(){
+        return "about";
+    }
 	
 }
